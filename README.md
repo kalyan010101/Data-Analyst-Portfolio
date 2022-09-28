@@ -6,3 +6,5 @@ Loan forgiveness is the process by which a lender discharges a borrower’s obli
 In the context of PPP loans, borrowers are eligible for loan forgiveness if they use the funds to cover designated expenses.
 
 Covid EIDLs are not forgivable and must be repaid in full. Borrowers can, however, take advantage of a 30-month payment deferral period that begins on the date of the note. This deferral period applies to loans approved in 2020, 2021 and 2022, and is an extension of the original 12-month deferment.
+
+Data Source https://www.sba.gov/funding-programs/loans
